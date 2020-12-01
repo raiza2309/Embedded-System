@@ -3,6 +3,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
+// Tes Edit
+
 long first = 0;
 long second = 0;
 double total = 0;
