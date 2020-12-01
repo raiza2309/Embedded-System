@@ -4,6 +4,7 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Tes Edit
+// Tes Edit 3 Before Pull
 
 long first = 0;
 long second = 0;
