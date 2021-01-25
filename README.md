@@ -1,3 +1,3 @@
-Repository For Embedded System & IOT
+Repository For Sistem Terbenam & IOT
 
-Build with Arduino
+Build with Arduino in Proteus
